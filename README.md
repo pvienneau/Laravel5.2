@@ -11,3 +11,5 @@
 ## RESTful API
 
 ~~[API Doc](https://laravel.com/docs/5.2/controllers#restful-resource-controllers)~~
+
+[TutsPlus](http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785) **(Laravel 4)**
