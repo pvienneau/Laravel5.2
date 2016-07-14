@@ -10,4 +10,4 @@
 
 ## RESTful API
 
-[API Doc](https://laravel.com/docs/5.2/controllers#restful-resource-controllers)
+~~[API Doc](https://laravel.com/docs/5.2/controllers#restful-resource-controllers)~~
