@@ -6,4 +6,4 @@
 
 ## Routing
 
-[Laravel Doc](https://laravel.com/docs/master/routing)
+~~[Laravel Doc](https://laravel.com/docs/master/routing)~~
