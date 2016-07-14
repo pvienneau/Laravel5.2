@@ -15,3 +15,5 @@
 ~~Programmable Web](http://www.programmableweb.com/news/how-to-build-restful-apis-using-php-and-laravel/how-to/2014/08/13)~~
 
 [TutsPlus](http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785) **(Laravel 4)**
+
+[Authentication Guard Drivers](https://mattstauffer.co/blog/multiple-authentication-guard-drivers-including-api-in-laravel-5-2)
