@@ -7,3 +7,7 @@
 ## Routing
 
 ~~[Laravel Doc](https://laravel.com/docs/master/routing)~~
+
+## RESTful API
+
+[API Doc](https://laravel.com/docs/5.2/controllers#restful-resource-controllers)
