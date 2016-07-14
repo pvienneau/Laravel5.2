@@ -12,6 +12,6 @@
 
 ~~[API Doc](https://laravel.com/docs/5.2/controllers#restful-resource-controllers)~~
 
-[Programmable Web](http://www.programmableweb.com/news/how-to-build-restful-apis-using-php-and-laravel/how-to/2014/08/13)
+~~Programmable Web](http://www.programmableweb.com/news/how-to-build-restful-apis-using-php-and-laravel/how-to/2014/08/13)~~
 
 [TutsPlus](http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785) **(Laravel 4)**
