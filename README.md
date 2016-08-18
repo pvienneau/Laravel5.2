@@ -4,6 +4,8 @@
 
 [Laracast](https://laracasts.com/series/laravel-5-fundamentals/episodes/1)
 
+[Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+
 ## Routing
 
 ~~[Laravel Doc](https://laravel.com/docs/master/routing)~~
