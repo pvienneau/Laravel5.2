@@ -2,7 +2,7 @@
 
 ## Video Tutorials
 
-[Laracast](https://laracasts.com/series/laravel-5-fundamentals/episodes/1)
+[Laracast](https://laracasts.com/series/laravel-5-from-scratch)
 
 [Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
